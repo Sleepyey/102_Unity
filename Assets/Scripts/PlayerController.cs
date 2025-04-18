@@ -29,6 +29,9 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
+
+
+
         float moveInput = Input.GetAxisRaw("Horizontal");
         rb.velocity = new Vector2(moveInput * moveSpeed, rb.velocity.y);
 
@@ -47,11 +50,11 @@ public class PlayerController : MonoBehaviour
         {
             if (moveInput < 0)
             {
-                transform.localScale = new Vector3(1f, 1f, 1f);
+                transform.localScale = new Vector3(-0.2f, 0.2f, 0.2f);
             }
             if (moveInput > 0)
             {
-                transform.localScale = new Vector3(-1f, 1f, 1f);
+                transform.localScale = new Vector3(0.2f, 0.2f, 0.2f);
             }
         }
 

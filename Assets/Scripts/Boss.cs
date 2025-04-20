@@ -16,7 +16,6 @@ public class Boss : MonoBehaviour
     public float bossHp = 200f;
     public float attackR = 50f;
     public float timer = 0f;
-    public float moveSpeed = 0.03f;
 
     // Start is called before the first frame update
     void Start()

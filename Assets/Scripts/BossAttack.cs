@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BossAttack : MonoBehaviour
 {
-    public float moveSpeed = 0.04f;
+    public float moveSpeed = 0.1f;
     public float lTime = 4f;
 
     // Update is called once per frame

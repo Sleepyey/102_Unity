@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\jikan\\102_Unity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|C:\\Users\\jikan\\102_Unity\\assets\\scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|C:\\Users\\jikan\\102_Unity\\assets\\scripts\\bossattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|C:\\Users\\jikan\\102_Unity\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|c:\\users\\jikan\\102_unity\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,12 +15,24 @@
       "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|C:\\Users\\jikan\\102_Unity\\assets\\scripts\\enemybcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|C:\\Users\\jikan\\102_Unity\\assets\\scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|c:\\users\\jikan\\102_unity\\assets\\scripts\\attackrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|C:\\Users\\jikan\\102_Unity\\assets\\scripts\\attackrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|c:\\users\\jikan\\102_unity\\assets\\scripts\\attackl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|c:\\users\\jikan\\102_unity\\assets\\scripts\\attackr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|C:\\Users\\jikan\\102_Unity\\assets\\scripts\\enemybcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +42,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttackL.cs",
+              "DocumentMoniker": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\AttackL.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackL.cs",
+              "ToolTip": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\AttackL.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:21:13.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttackR.cs",
+              "DocumentMoniker": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\AttackR.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackR.cs",
+              "ToolTip": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\AttackR.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AttackR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:20:30.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T21:55:19.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BossAttack.cs",
+              "DocumentMoniker": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\BossAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BossAttack.cs",
+              "ToolTip": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\BossAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BossAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T13:38:08.674Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -40,14 +104,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\AttackRR.cs",
               "ToolTip": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\AttackRR.cs",
               "RelativeToolTip": "Assets\\Scripts\\AttackRR.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T12:50:46.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "EnemyBController.cs",
               "DocumentMoniker": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\EnemyBController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBController.cs",
@@ -66,33 +130,20 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
               "ToolTip": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\EnemyController.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwDEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvzEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T21:33:41.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAK8AAAAAAAAAAAAUwLwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T21:55:19.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Boss.cs",
               "DocumentMoniker": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\Boss.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Boss.cs",
               "ToolTip": "C:\\Users\\jikan\\102_Unity\\Assets\\Scripts\\Boss.cs",
               "RelativeToolTip": "Assets\\Scripts\\Boss.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAIwA0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T11:09:20.113Z",
               "EditorCaption": ""

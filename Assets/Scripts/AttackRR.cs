@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AttackRR : MonoBehaviour
 {
-    public float moveSpeed = 0.015f;
+    public float moveSpeed = 0.2f;
     public float lTime = 20f;
 
     // Update is called once per frame

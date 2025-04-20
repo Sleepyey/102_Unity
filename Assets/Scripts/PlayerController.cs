@@ -79,6 +79,11 @@ public class PlayerController : MonoBehaviour
     {
         rUI.text = $"R / {countR}";
 
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
+
         if (Input.GetKeyDown(KeyCode.R) && countR > 0)
         {
             AttackRR();

@@ -2,10 +2,12 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EnemyController : MonoBehaviour
 {
     public float moveSpeed = 2f;
+    public float enemyHp = 5f;
 
     private Rigidbody2D rb;
     private bool isMovingRight = true;
@@ -19,10 +21,20 @@ public class EnemyController : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
+        if (enemyHp <= 0)
+        {
+            Destroy(gameObject);
+        }
         if (isMovingRight)
+        {
+            transform.localScale = new Vector3(0.5f, 0.5f, 1f);
             rb.velocity = new Vector2(moveSpeed, rb.velocity.y);
+        }
         else
+        {
+            transform.localScale = new Vector3(-0.5f, 0.5f, 1f);
             rb.velocity = new Vector2(-moveSpeed, rb.velocity.y);
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -30,6 +42,10 @@ public class EnemyController : MonoBehaviour
         if (collision.CompareTag("Boundary"))
         {
             isMovingRight = !isMovingRight;
+        }
+        if (collision.CompareTag("Attack"))
+        {
+            enemyHp--;
         }
     }
 }

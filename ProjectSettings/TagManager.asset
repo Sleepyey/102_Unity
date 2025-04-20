@@ -8,6 +8,15 @@ TagManager:
   - Enemy
   - Obstacle
   - Item
+  - Item_Inv
+  - Item_Spd
+  - Attack
+  - EnemyB
+  - Item_Jum
+  - Item_R
+  - Attack_R
+  - Boss
+  - Boss_A
   layers:
   - Default
   - TransparentFX

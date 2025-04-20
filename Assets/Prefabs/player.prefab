@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 8966284723105384986}
   m_Layer: 0
   m_Name: player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -79,12 +79,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: dcd0d4267dcf8934aade7f858a67978b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 20daa800a641d9e4cae18a06630db1ef, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.24, y: 0.24}
+  m_Size: {x: 5.12, y: 2.56}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -102,12 +102,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abf9d6e163f59074889e8ee1ad9a0ad0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 3
-  jumpForce: 3
+  moveSpeed: 5
+  jumpForce: 6
+  playerHp: 4
+  right: 0
+  timer: 0
+  attackPrefabsR: {fileID: 1735976487446842571, guid: e72e7b5aced3a3a408908d39969933fc, type: 3}
+  attackPrefabsL: {fileID: 6389601663999207147, guid: 684f26946d0a065429837d4fb45a9764, type: 3}
+  attackPrefabsRR: {fileID: 3238656067133865114, guid: 2610aa9373e4408479b3cb8c37c171fa, type: 3}
   groundCheck: {fileID: 261206555382485513}
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
+  hpUI: {fileID: 0}
+  timerUI: {fileID: 0}
+  rUI: {fileID: 0}
 --- !u!50 &8099280669463219681
 Rigidbody2D:
   serializedVersion: 4
@@ -167,18 +176,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.17083144, y: -0.5398374}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.24, y: 0.24}
-    newSize: {x: 0.24, y: 0.24}
+    oldSize: {x: 5.12, y: 2.56}
+    newSize: {x: 5.12, y: 2.56}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.15, y: 0.24}
+  m_Size: {x: 1.4408278, y: 1.374015}
   m_EdgeRadius: 0
 --- !u!95 &8966284723105384986
 Animator:
@@ -269,7 +278,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 1
+  orthographic size: 10
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -318,7 +327,7 @@ Transform:
   m_GameObject: {fileID: 6745912835586104814}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.12, z: 0}
+  m_LocalPosition: {x: 0, y: -1.2, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

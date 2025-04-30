@@ -30,7 +30,7 @@ public class Boss : MonoBehaviour
 
         if (bossHp <= 0)
         {
-            Application.Quit();
+            SceneManager.LoadScene("Level_0");
         }
     }
 

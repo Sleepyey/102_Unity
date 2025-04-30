@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using TMPro;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class PlayerController : MonoBehaviour
 {
@@ -38,11 +39,14 @@ public class PlayerController : MonoBehaviour
     private int countR = 0;
 
     private int dummy_b = 0;
+
+    float score;
     
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         pAni = GetComponent<Animator>();
+        score = 1000f;
     }
 
     void Mhp()
@@ -182,7 +186,7 @@ public class PlayerController : MonoBehaviour
                 pAni.SetTrigger("JumpAction");
             }
         }
-
+        score -= Time.deltaTime;
     }
 
     void AttackRR()
@@ -216,6 +220,7 @@ public class PlayerController : MonoBehaviour
         }
         if (collision.CompareTag("Finish"))
         {
+            HighScore.TrySet(SceneManager.GetActiveScene().buildIndex, (int)score);
             collision.GetComponent<LevelObject>().MoveToNextLevel();
         }
         if (collision.CompareTag("Enemy"))

@@ -3,48 +3,16 @@
   "WorkspaceRootPath": "D:\\102_Unity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|D:\\102_Unity\\assets\\scripts\\bossattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bossattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|d:\\102_unity\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|D:\\102_Unity\\assets\\scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|d:\\102_unity\\assets\\scripts\\rankpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rankpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|d:\\102_unity\\assets\\scripts\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|D:\\102_Unity\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|D:\\102_Unity\\assets\\scripts\\attackl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|D:\\102_Unity\\assets\\scripts\\scoretest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoretest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|D:\\102_Unity\\assets\\scripts\\datatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\datatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|D:\\102_Unity\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|D:\\102_Unity\\assets\\scripts\\attackrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|D:\\102_Unity\\assets\\scripts\\attackr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\attackr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|D:\\102_Unity\\assets\\scripts\\enemybcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemybcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|d:\\102_unity\\assets\\scripts\\stageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA50043-C0A7-C2BC-23E2-AEDF726CA51A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stageresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,142 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ScoreTest.cs",
-              "DocumentMoniker": "D:\\102_Unity\\Assets\\Scripts\\ScoreTest.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreTest.cs",
-              "ToolTip": "D:\\102_Unity\\Assets\\Scripts\\ScoreTest.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ScoreTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T06:03:35.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HighScore.cs",
-              "DocumentMoniker": "D:\\102_Unity\\Assets\\Scripts\\HighScore.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HighScore.cs",
-              "ToolTip": "D:\\102_Unity\\Assets\\Scripts\\HighScore.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HighScore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T05:53:29.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AttackL.cs",
-              "DocumentMoniker": "D:\\102_Unity\\Assets\\Scripts\\AttackL.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackL.cs",
-              "ToolTip": "D:\\102_Unity\\Assets\\Scripts\\AttackL.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AttackL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T15:21:13.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AttackR.cs",
-              "DocumentMoniker": "D:\\102_Unity\\Assets\\Scripts\\AttackR.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackR.cs",
-              "ToolTip": "D:\\102_Unity\\Assets\\Scripts\\AttackR.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AttackR.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T15:20:30.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "D:\\102_Unity\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "D:\\102_Unity\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAMwAAAAAAAAAAAAswN8AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T21:55:19.376Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BossAttack.cs",
-              "DocumentMoniker": "D:\\102_Unity\\Assets\\Scripts\\BossAttack.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\BossAttack.cs",
-              "ToolTip": "D:\\102_Unity\\Assets\\Scripts\\BossAttack.cs",
-              "RelativeToolTip": "Assets\\Scripts\\BossAttack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "D:\\102_Unity\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "D:\\102_Unity\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T13:38:08.674Z",
+              "WhenOpened": "2025-05-21T07:14:18.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Boss.cs",
-              "DocumentMoniker": "D:\\102_Unity\\Assets\\Scripts\\Boss.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Boss.cs",
-              "ToolTip": "D:\\102_Unity\\Assets\\Scripts\\Boss.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Boss.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAywCAAAAAuAAAAAAAAAA==",
+              "Title": "RankPage.cs",
+              "DocumentMoniker": "D:\\102_Unity\\Assets\\Scripts\\RankPage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RankPage.cs",
+              "ToolTip": "D:\\102_Unity\\Assets\\Scripts\\RankPage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RankPage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwBgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T11:09:20.113Z",
+              "WhenOpened": "2025-05-21T06:06:06.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DataTest.cs",
-              "DocumentMoniker": "D:\\102_Unity\\Assets\\Scripts\\DataTest.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DataTest.cs",
-              "ToolTip": "D:\\102_Unity\\Assets\\Scripts\\DataTest.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DataTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAwAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "StageResult.cs",
+              "DocumentMoniker": "D:\\102_Unity\\Assets\\Scripts\\StageResult.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StageResult.cs",
+              "ToolTip": "D:\\102_Unity\\Assets\\Scripts\\StageResult.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StageResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T05:47:42.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AttackRR.cs",
-              "DocumentMoniker": "D:\\102_Unity\\Assets\\Scripts\\AttackRR.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AttackRR.cs",
-              "ToolTip": "D:\\102_Unity\\Assets\\Scripts\\AttackRR.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AttackRR.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T12:50:46.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EnemyBController.cs",
-              "DocumentMoniker": "D:\\102_Unity\\Assets\\Scripts\\EnemyBController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyBController.cs",
-              "ToolTip": "D:\\102_Unity\\Assets\\Scripts\\EnemyBController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyBController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T01:21:48.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EnemyController.cs",
-              "DocumentMoniker": "D:\\102_Unity\\Assets\\Scripts\\EnemyController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
-              "ToolTip": "D:\\102_Unity\\Assets\\Scripts\\EnemyController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvzEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T21:33:41.101Z"
+              "WhenOpened": "2025-05-21T05:09:34.691Z",
+              "EditorCaption": ""
             }
           ]
         }

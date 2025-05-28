@@ -1344,7 +1344,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3fb7ca79fe7f6d54a9347883608b77f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stageNum: 0
+  rankPage: {fileID: 1401812177}
 --- !u!4 &188095097
 Transform:
   m_ObjectHideFlags: 0

@@ -18,7 +18,7 @@ public class RankPage : MonoBehaviour
         RefreshRankList();
     }
 
-    void RefreshRankList()
+    public void RefreshRankList()
     {
         foreach (Transform child in contentRoot)
         {
@@ -26,7 +26,7 @@ public class RankPage : MonoBehaviour
         }
 
         //데이터를 내림파순으로 정렬
-        var sortedData = allData.result.Where(r => r.stage == 1).OrderByDescending(Matrix4x4 => Matrix4x4.score).ToList();
+        var sortedData = allData.result.Where(r => r.stage == UIManager.stageNum).OrderByDescending(Matrix4x4 => Matrix4x4.score).ToList();
 
         for (int i = 0; i < sortedData.Count; i++)
         {

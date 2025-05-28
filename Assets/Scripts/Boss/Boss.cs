@@ -3,33 +3,40 @@ using System.Collections.Generic;
 using System.Threading;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.SocialPlatforms.Impl;
 using UnityEngine.UI;
 
 public class Boss : MonoBehaviour
 {
+    [Header("Boss Setting")]
+    public float bossHp = 200f;
+    public float attackR = 50f;     //보스가 받는 대미지(?)
+    public float timer = 0f;        //?
+
+    [Header("Boss Attack P")]
     public GameObject bossAttackRPrefabs;
     public GameObject bossAttackPPrefabs;
     public Transform[] attackPositions;
 
     public Slider bosshpSli;
 
-    public float bossHp = 200f;
-    public float attackR = 50f;
-    public float timer = 0f;
+    float score;
 
-    // Start is called before the first frame update
+    // Start
     void Start()
     {
         StartCoroutine(BossAttack());
     }
 
-    // Update is called once per frame
+    // Update
     void Update()
     {
        bosshpSli.value = bossHp;
 
+        //보스가 죽을 시
         if (bossHp <= 0)
         {
+            StageResultSaver.SaveStage(SceneManager.GetActiveScene().buildIndex, (int)score);
             SceneManager.LoadScene("Level_0");
         }
     }

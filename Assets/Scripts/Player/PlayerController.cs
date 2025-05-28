@@ -9,21 +9,21 @@ using UnityEngine.SocialPlatforms.Impl;
 
 public class PlayerController : MonoBehaviour
 {
-
+    [Header("Player Setting")]
     public float moveSpeed = 5f;
     public float jumpForce = 6f;
     public float playerHp = 4f;
-    public bool right;
 
-    public float timer = 0f;
-
+    [Header("Attack Prefabs")]
     public GameObject attackPrefabsR;
     public GameObject attackPrefabsL;
     public GameObject attackPrefabsRR;
 
+    [Header("Ground")]
     public Transform groundCheck;
     public LayerMask groundLayer;
 
+    [Header("UI")]
     public TextMeshProUGUI hpUI;
     public TextMeshProUGUI timerUI;
     public TextMeshProUGUI rUI;
@@ -32,16 +32,21 @@ public class PlayerController : MonoBehaviour
     private Animator pAni;
     private bool isGrounded;
 
+    private float timer = 0f;
+
+    private bool right;
     private bool isGiant = false;
     private bool isInv = false;
     private bool isJum = false;
     private bool isSpd = false;
     private int countR = 0;
 
+
     private int dummy_b = 0;
 
     float score;
     
+    //Awake
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -49,6 +54,7 @@ public class PlayerController : MonoBehaviour
         score = 1000f;
     }
 
+    // 플레이어 HP 표시
     void Mhp()
     {
         playerHp--;
@@ -78,7 +84,7 @@ public class PlayerController : MonoBehaviour
 
     }
 
-    // Update
+    //Update
     private void Update()
     {
         rUI.text = $"R / {countR}";
@@ -189,6 +195,7 @@ public class PlayerController : MonoBehaviour
         score -= Time.deltaTime;
     }
 
+    // R키
     void AttackRR()
     {
         Transform playerTransform = transform;
@@ -198,6 +205,7 @@ public class PlayerController : MonoBehaviour
         countR--;
     }
 
+    // Right Attack
     void AttackR()
     {
         Transform playerTransform = transform;
@@ -205,6 +213,7 @@ public class PlayerController : MonoBehaviour
         Instantiate(attackPrefabsR, playerTransform.position, playerTransform.rotation);
     }
 
+    // Left Attack
     void AttackL()
     {
         Transform playerTransform = transform;
